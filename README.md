@@ -1,0 +1,2 @@
+# estadisticaPy
+repositorio prácticas estadística 
